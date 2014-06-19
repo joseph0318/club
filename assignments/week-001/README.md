@@ -1,6 +1,6 @@
 ##Use MIT AppInvenor to create your first application
 
-Please go through at least the first two tutorials and try to create a project. I will explain and answer your questions when we meet next week.
+Please go through at least [the first two tutorials](http://appinventor.mit.edu/explore/ai2/tutorials?) and try to create a project. I will explain and answer your questions when we meet next week.
 
 ###Required skills
 
