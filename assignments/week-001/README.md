@@ -12,7 +12,7 @@ Please go through at least [the first two tutorials](http://appinventor.mit.edu/
 ###Features:
 
 1. required: display an image of an animal
-2. required: when you shake the device, it starts to playing a sound or stops playing
+2. required: when you shake the device, it starts to play a sound or stops playing
 3. optional: adjust image size to fill in the screen
 4. optional: add buttons
 5. optional: add images to the buttons
