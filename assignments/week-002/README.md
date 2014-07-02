@@ -2,7 +2,7 @@
 
 Procedures make logic reusable. We can improve the last week's project by using 2 procedures.
 
-![Screenshot block logic](https://github.com/brunoyin/club/raw/master/assignments/week-002/Improved-with-procedure.svg)
+![Screenshot block logic](Improved-with-procedure.png)
 
 ##First Assignment
 
