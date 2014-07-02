@@ -2,15 +2,11 @@
 
 Procedures make logic reusable. We can improve the last week's project by using 2 procedures.
 
-![Screenshot block logic](Improved-with-procedure.svg  "Procdures")
+![Screenshot block logic](https://github.com/brunoyin/club/raw/master/assignments/week-002/Improved-with-procedure.svg)
 
-##First Assignment:
+##First Assignment
 
-###create a simple game in 3 weeks
-
-1. First week: research and planning
-2. Second week: make it works
-3. Third week: put on the finishing touch, make it look good and work perfectly
+###create a simple game in 2 weeks
 
 Here are are ideas:
 
@@ -18,7 +14,7 @@ Here are are ideas:
 2. a car race game: move an image sprite or the car, a player needs to avoid randomly placed animals on the road, track the time used to reach the finish lime. display top 5 quickest score at the end of a game
 3. a rocket launch count down game for kids to learn to count backwards. place 10 number imagesprites on the canvas, a player needs to place the numbers in order. at the end, animate a rocket launch.
 
-###First week: research and planning
+###Let's do it right
 
 1. describe the game of your choice: make sure it's meanful like the 3 ideas I put out here
 2. research what you need to complete your game: components, block logics
