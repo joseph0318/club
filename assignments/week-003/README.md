@@ -37,7 +37,7 @@ You are likely to use these components:
 ####Create 2 HTML pages: use both jsbin and Sublime Text
 
 1. put [this text file content - happy](assets/happy.txt) in an HTML page and make it look good
-2. put [this text file content](assetsbalzac.txt) in an HTML page with images
+2. put [this text file content](assets/balzac.txt) in an HTML page with images
 
 ####Watch some of these video tutorials
 
