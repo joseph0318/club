@@ -39,5 +39,9 @@ You are likely to use these components:
 1. put [this text file content - happy](assets/happy.txt) in an HTML page and make it look good
 2. put [this text file content](assets/balzac.txt) in an HTML page with images
 
-####Watch some of these video tutorials
+####Watch some of these video tutorials:
+
+1. 2 - Up and Running with HTML
+2. 3 - HTML5 - Structure, Syntax, and Semantics
+
 
